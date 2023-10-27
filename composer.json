@@ -1,0 +1,15 @@
+{
+    "name": "sigma/mock-webserver",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Sigma-Z"
+        }
+    ],
+    "require": {
+        "donatj/mock-webserver": "^2.7"
+    },
+    "require-dev": {
+        "dg/bypass-finals": "^1.5"
+    }
+}
